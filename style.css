@@ -78,9 +78,9 @@ nav p {
 .app img {
     height: 700px;
     width:45%;
-    padding-top: 50px;
-    padding-left: 440px;
-    align-items: center;
+     margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 .back {
     background-color: rgba(455, 120, 230, 0.3);
