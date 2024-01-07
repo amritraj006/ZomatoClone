@@ -1,0 +1,93 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    
+}
+.nv {
+    background-image: url("https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png");
+    height: 400px;
+    width: 100%;
+}
+.nv nav {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    color:white;
+}
+.nv .logo {
+    text-align: center;
+
+}
+.nv nav .right {
+    display: flex;
+}
+.nv .inp {
+     text-align: center; 
+}
+nav p {
+    margin-inline: 11px;
+    margin-top: 22px;
+}
+.nv .logo img {
+    width:45%;
+    margin-top: 66px;
+}
+.nv .text {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+.nv .inp input {
+    width: 600px;
+    height: 10px;
+    padding: 22px;
+    border: none;
+    outline: none;
+    font-size: 19px;
+    border-radius: 15px;
+    margin-top: 22px;
+}
+.card {
+    display: flex;
+    justify-content: center;
+    /* justify-content: space-around; */
+    justify-content: space-evenly;
+}
+.card .crd img {
+    width:320px;
+    height:220px;
+    border-radius: 6px;
+    margin-top: 55px;
+}
+
+.coll .txt {
+    margin-left: 34px;
+    margin-top: 64px;
+    padding: 33px;
+}
+.coll .rest {
+    display: flex;
+    justify-content: center;
+    justify-content:space-evenly;
+}
+.rest img {
+    width: 23%;
+    border-radius: 7px;
+    height: 300px; 
+}
+.app img {
+    height: 700px;
+    width:45%;
+    padding-top: 50px;
+    padding-left: 440px;
+    align-items: center;
+}
+.back {
+    background-color: rgba(455, 120, 230, 0.3);
+}
+.app h1{
+    text-align: center;
+    font-size: 1rem;
+    
+    
+}
